@@ -9,7 +9,7 @@ body {
 }
 
 #nav-wrap {
-  background-color: #bf0517;
+  background-color: #bc2318;
 }
 
 li.nav-item {
@@ -20,7 +20,7 @@ li.nav-item {
 #navbar-main, ul.dropdown-menu {
     border: 0;
     border-bottom: 1px solid #bf0517;
-    background-color: #bf0517;
+    background-color: #bc2318;
     margin-bottom: 0;
     border-radius: 0;
     padding: 0;
@@ -28,11 +28,11 @@ li.nav-item {
 }
 
 a.navbar-brand  img {
-  background-color: #bf0517;
+  background-color: #bc2318;
 }
 
 .navbar-brand {
-  background-color: #bf0517;
+  background-color: #bc2318;
   padding: 0;
 }
 
